@@ -1,0 +1,7 @@
+{
+  "name": "Property Sales",
+  "dataColors": ["#E8A084", "#C8B4A0", "#8B7355", "#D4A574", "#A0826D", "#E6C9B8", "#D9A087", "#B09080"],
+  "good": "#8B7355",
+  "neutral": "#C8B4A0",
+  "bad": "#D64550"
+}
